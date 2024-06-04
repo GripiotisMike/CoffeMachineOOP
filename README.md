@@ -1,4 +1,4 @@
-# CoffeMachineOOP
+# Coffee Machine with OOP
 
 - This Project let me understand better the uses of Object Oriented Programming (OOP).
 
